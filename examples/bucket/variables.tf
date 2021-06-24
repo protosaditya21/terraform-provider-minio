@@ -1,6 +1,6 @@
 variable "minio_region" {
   description = "Default MINIO region"
-  default     = "us-east-1"
+  default     = "us-east-2"
 }
 
 variable "minio_server" {
